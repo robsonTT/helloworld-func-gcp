@@ -16,6 +16,11 @@ See:
 
 ## Deploy and run the sample
 
+
+- You can use some commands to make it easier to put on air, these commands will for example let you choose which geographic region your function will be in
+![image](https://user-images.githubusercontent.com/54007079/109369601-b355fe80-787b-11eb-8e5e-dbc5ac78f846.png)
+
+
 See the [Cloud Functions Hello World tutorial][tutorial].
 
 
