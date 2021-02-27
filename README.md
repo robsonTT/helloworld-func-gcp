@@ -2,6 +2,10 @@
 
 # Basic Example Google Cloud Functions - Hello World sample
 
+
+![image](https://user-images.githubusercontent.com/54007079/109369316-af75ac80-787a-11eb-97e2-a8c3e36af5d6.png)
+
+
 See:
 
 * [Cloud Functions Hello World tutorial][tutorial]
@@ -13,6 +17,9 @@ See:
 ## Deploy and run the sample
 
 See the [Cloud Functions Hello World tutorial][tutorial].
+
+
+
 
 **Note:** in order for the tests to run properly, you'll have to deploy some of the sample functions:
 
