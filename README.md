@@ -3,6 +3,9 @@
 # Basic Example Google Cloud Functions - Hello World sample
 
 
+![image](https://user-images.githubusercontent.com/54007079/109370073-90c4e500-787d-11eb-82f7-0f98e6ad8b0e.png)
+
+
 ![image](https://user-images.githubusercontent.com/54007079/109369316-af75ac80-787a-11eb-97e2-a8c3e36af5d6.png)
 
 
@@ -22,7 +25,6 @@ See:
 
 
 See the [Cloud Functions Hello World tutorial][tutorial].
-
 
 
 
@@ -55,3 +57,6 @@ complete list, see the [gcloud reference](https://cloud.google.com/sdk/gcloud/re
 1. Run the tests:
 
         npm test
+
+
+
